@@ -8,7 +8,7 @@ public class zad2 {
         double d = 123.4;
         boolean bo = true;
         String st = "Software Development Academy";
-        
+
         System.out.println("Zmienna byte " + b);
         System.out.println("Zmienna short " + s);
         System.out.println("Zmienna int " + i);
